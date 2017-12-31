@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://readfun.fun/"/>
-  <updated>2017-12-31T04:06:02.581Z</updated>
+  <updated>2017-03-27T10:44:21.024Z</updated>
   <id>http://readfun.fun/</id>
   
   <author>
@@ -17,23 +17,123 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://readfun.fun/2017/12/31/hello-world.html"/>
-    <id>http://readfun.fun/2017/12/31/hello-world.html</id>
-    <published>2017-12-31T04:06:02.581Z</published>
-    <updated>2017-12-31T04:06:02.581Z</updated>
+    <title>驴得水</title>
+    <link href="http://readfun.fun/2017/03/12/%E9%A9%B4%E5%BE%97%E6%B0%B4.html"/>
+    <id>http://readfun.fun/2017/03/12/驴得水.html</id>
+    <published>2017-03-12T06:00:53.000Z</published>
+    <updated>2017-03-27T10:44:21.024Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>错过了这部电影的上映时间，一直都心里念着，这两天终于想起来找来看了。</p><a id="more"></a><h5 id="这是一部好电影"><a href="#这是一部好电影" class="headerlink" title="这是一部好电影"></a>这是一部好电影</h5><p>其实我一直是很反感拿那个 <strong>大家都知道的年代</strong> 作为背景进行创作，特别是影视作品的创作。</p><p>但是，这部电影不同，虽然出现了青天白日旗。不过也只出现了青天白日旗。</p><p>我认为，无论是否真实，任何电影都不应该出现明显的对是非对错进行评判。这本来就是观众需要自己做的事。不然就是<strong>耍流氓</strong>。</p><p>而《 驴得水 》 在尊重时代背景的情况下，表达的是国民政府统治时期，一个小村庄的故事。不涉及其他任何对比。</p><p>国民政府统治下的一个小村庄唯一可以体现只有，什么都体现不出来。<br>任何一个统治都存在这两面性，只是看哪一面多，统治者藏东西的本领如何罢了。</p><hr><p>故事讲述了，一位农村教育家带领着三个截然不同的青年“教师”在偏远地区进行教育事业的“艰辛”。</p><p>很感人，很可悲，很可笑。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;错过了这部电影的上映时间，一直都心里念着，这两天终于想起来找来看了。&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>启用 Https</title>
+    <link href="http://readfun.fun/2017/02/26/%E5%90%AF%E7%94%A8-Https.html"/>
+    <id>http://readfun.fun/2017/02/26/启用-Https.html</id>
+    <published>2017-02-26T07:49:17.000Z</published>
+    <updated>2017-02-26T09:44:52.194Z</updated>
+    
+    <content type="html"><![CDATA[<p>跟进潮流</p><a id="more"></a><p>为了使用SSL加密，进行了各种尝试，包括把DNS转为Cloudflare解析，结果都以失败告终。</p><p>现在是将博客的托管空间由Github转移至Coding，一是可以方便的申请SSL证书，二是国内的访问会更加稳定。</p><p>不过不得不说，这个小绿锁真是太装逼了。</p><p>不过，我喜欢，哇哈哈哈哈！！</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;跟进潮流&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的十九岁</title>
+    <link href="http://readfun.fun/2017/02/24/%E6%88%91%E7%9A%84%E5%8D%81%E4%B9%9D%E5%B2%81.html"/>
+    <id>http://readfun.fun/2017/02/24/我的十九岁.html</id>
+    <published>2017-02-23T16:41:28.000Z</published>
+    <updated>2017-02-23T17:24:31.641Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a><p>首先，对自己说 19 岁生日快乐，</p><p>按道理来说应该是总结一下过去的一年，但是无奈发现其实没什么好总结的。</p><p>无非是经历了高考，经历了一个学期的大（fang）学（fei）生（zi）活（wo）。</p><p>今年三月份，我被误诊为肺结核，在家了呆了一个星期，没有复习，完全的放空了自己。那时我在想，如果真是肺结核，没法高考，那我的人生怎么办？</p><p>那个星期，我充分展现了双鱼座胡思乱想的能力。最后的结果是，决定如果真是肺结核就不高考了。只是没能生在罗马，不让走着去罗马，说什么也要爬过去。</p><p>当得知不是肺结核时，我一下有点懵了，因为我都想好，不高考的日子要怎么过了。</p><p>这个不大不小的插曲，彻底地改变了我对高考的看法。本来我以为它是我这辈子唯一的出路，现在我不这么觉得了，我不相信只有独木桥可以过河。</p><p>临近终点，却送开了手中的缰绳，结果可想而知。我连一点还手的余地都没有的被甩在了地上，还被狠狠的蹬了一脚，一败涂地。</p><p>不过，我不后悔。</p><p>至于，其他的，我真想抽自己两巴掌。</p><p>就这样。</p><p>18 的这一年，真是有趣的一年。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;p&gt;首先，对自己说 19 岁生日快乐，&lt;/p&gt;
+&lt;p&gt;按道理来说应该是总结一下过去的一年，但是无奈发现其实没什么好总结的。&lt;/p&gt;
+&lt;p&gt;无非是经历了高考，经历了一个学期的大（fang）学（fei）生（zi）活（wo）。&lt;/p&gt;
+&lt;p&gt;今年三
       
     
     </summary>
     
+    
+  </entry>
+  
+  <entry>
+    <title>回憶錄</title>
+    <link href="http://readfun.fun/2016/11/26/2016-11-26-%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0-.html"/>
+    <id>http://readfun.fun/2016/11/26/2016-11-26-一篇文章-.html</id>
+    <published>2016-11-26T04:07:24.000Z</published>
+    <updated>2016-12-18T06:42:05.105Z</updated>
+    
+    <content type="html"><![CDATA[<p>回憶，那個回憶。</p><a id="more"></a><h1 id="一"><a href="#一" class="headerlink" title="一"></a>一</h1><p>“那我走咯。”</p><p>“嗯，軍訓要多喝水，撐不住一定要跟老師反應，別硬撐。”</p><p>“好啦，我知道了，走了”</p><p>“路上注意安全！”</p><p>“嗯，拜拜。”</p><hr><p>晌午時分，在深圳科学高中，日前機負盛名的全寄宿制高中，正門口停滿了車，其中不乏瑪莎拉蒂。</p><p>馬路的另一邊，有不少面容疲憊的學生在緩緩走來，他們的手上都提著不輕的行李。</p><p>就在兩個多月前，中考結束了。在完成了九年義務教育后，又有一群年輕人走上了不同的道路，而衹有佔少數的人才能在公辦的普通高中繼續學生生活。他們按照心裏的聲音，繼續走在康莊大道上，無論對錯。值得欣慰的是，這一路風景如畫。</p><p>“老師，你好。”小心翼翼地，“我是週銳帆，這是我的通知書和身份證。”</p><p>“嗯，好，你先去報告廳，等一下學校會統一安排你們乘坐大巴。”</p><p>“好的，謝謝。”</p><p>手中緊緊抓著行李，慢慢走向報告廳，“我是十一班！”，心裏很高興。</p><hr><p>隨便找了一個位置坐下，拿出手機，給爸爸發了一條短信。</p><p>“老爸，我被分在十一班了。”</p><p>“好，是實驗體系還是榮譽體系？”</p><p>“我也不知道，不過好像榮譽體系的序號比較靠後。”</p><p>“嗯，你自己小心。”</p><p>“好。”</p><hr><p>“同學，你好，你是哪個班的？”</p><p>“十一班的。”</p><p>“哦，我是九班的，以後互相關照哦。”</p><p>點了一下頭，便看向臺上在講解的老師。</p><p>“那麽接下來九到十二班的同學從我左手邊的門口出去。”</p><hr><p>找了一個靠後的位置，就坐下了。</p><p>“同學，這有人嗎？”</p><p>搖搖頭，”沒有。”</p><p>“你好，我叫黃彥。”説罷，伸出了手。</p><p>“我叫週銳帆。”，笑著也伸出了手。</p><p>“這人好像還可以啊。”</p><hr><p>“同學們，你們好！我是我們十一班的班主任，我叫葉玲。在我旁邊的這位陳寬老師是我們班的副班主任。”</p><p>“老師都好年輕啊，不愧是新學校。”</p><p>“我們班是實驗體系，… … ”</p><p>“實驗體系！果然我還是太愛幻想了。”</p><p>“ … … , 大家也不用覺得比別人差，我看了我們班的同學的中考成績，都是蠻高的。”</p><p>“是啊，同學們，我和葉老師都有教榮譽體系的班級，我們肯定不會對大傢有什麽區別對待的。而且，我們班的老師也大多數兼帶榮譽體系的班，所以大家不用太在意這個分班的結果。”</p><p>“老爸，我是實驗體系的。”</p><p>“知道了，沒事，都一樣。”</p><p>車上，同學們你一句我一句。</p><p>“這些人怎麽這麽多話啊。”</p><hr><h1 id="二"><a href="#二" class="headerlink" title="二"></a>二</h1><p>“一！ 二！”</p><p>這是在育新基地的第三天。</p><p>“把脚都給我抬高咯！不要翹脚尖！”</p><p>“這麽久，誰還抬的高啊。又來了！”</p><p>“立、定！”</p><p>“啪！啪！”</p><p>“都沒吃飯是吧，回復！”</p><p>“沒完沒了了！”</p><hr><p>不得說，天公難得作美，軍訓期間盡是陰雨天氣。</p><p>“又下雨了！”</p><p>“這幾個女生和教官混的還蠻熟的。”</p><p>“還真是認真啊，在棚裏還要自己練。”</p><p>“別搞得教官也叫我們練。”</p><p>“你們每一排自己找空位去練，別跑遠了。”</p><p>“我！得，説啥來啥。”</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;回憶，那個回憶。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="隨筆" scheme="http://readfun.fun/tags/%E9%9A%A8%E7%AD%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>满意的一版</title>
+    <link href="http://readfun.fun/2016/11/25/2016-11-25-%E6%BB%A1%E6%84%8F%E7%9A%84%E4%B8%80%E7%89%88-.html"/>
+    <id>http://readfun.fun/2016/11/25/2016-11-25-满意的一版-.html</id>
+    <published>2016-11-24T18:38:34.000Z</published>
+    <updated>2016-11-24T18:48:24.330Z</updated>
+    
+    <content type="html"><![CDATA[<p>现在是2016年11月25日凌晨两点四十一分。<br>我的博客终于有一个雏形出来了。。<br>感觉还可以，兴奋的有点睡不着了，哈哈哈哈。。。<br><a id="more"></a><br>以后可能会写点随笔之类的。<br>总之多多关照了。。。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;现在是2016年11月25日凌晨两点四十一分。&lt;br&gt;我的博客终于有一个雏形出来了。。&lt;br&gt;感觉还可以，兴奋的有点睡不着了，哈哈哈哈。。。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="生活" scheme="http://readfun.fun/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello, World</title>
+    <link href="http://readfun.fun/2016/11/23/hello-world.html"/>
+    <id>http://readfun.fun/2016/11/23/hello-world.html</id>
+    <published>2016-11-22T16:00:00.000Z</published>
+    <updated>2016-11-26T04:56:57.716Z</updated>
+    
+    <content type="html"><![CDATA[<p>這是本人第一篇發表于互聯網的博文。</p><a id="more"></a><p>還請大家指點不足，我不勝感激。</p><p>建站目的衹是想記錄自己一些生活點滴，發表一些“感慨”。</p><p>敬以此歌。</p><center><br><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="http://music.163.com/outchain/player?type=2&id=440207933&auto=0&height=66"></iframe><br></center>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;這是本人第一篇發表于互聯網的博文。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="生活" scheme="http://readfun.fun/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
