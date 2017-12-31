@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://readfun.fun/"/>
-  <updated>2017-02-26T09:44:52.194Z</updated>
+  <updated>2017-12-31T16:01:23.965Z</updated>
   <id>http://readfun.fun/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2018，我来了</title>
+    <link href="http://readfun.fun/2018/01/01/2018%EF%BC%8C%E6%88%91%E6%9D%A5%E4%BA%86.html"/>
+    <id>http://readfun.fun/2018/01/01/2018，我来了.html</id>
+    <published>2017-12-31T16:00:00.000Z</published>
+    <updated>2017-12-31T16:01:23.965Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong> 咚！咚！咚！ </strong></p><p>新年的钟声敲响啦！</p><a id="more"></a><p>准时准点的祝大家新年快乐啦 (`・ω・´)<br>~(小声：其实是作弊直接改的时间~</p><p>因为今年，哦不对去年，频繁的重装电脑导致好久没有更新博客了～<br>~（又小声：其实是太懒了，也不知道写什么~</p><p>不过，现在我又回来惹～</p><p>之前的域名<del>太贵</del>没有续费了<br>~(还小声：好像有人知道之前的域名一样,,Ծ‸Ծ,,~</p><p>所以现在又重新注册了一个。以后一定会经常<del>随便</del>写点东西的</p><p>那下面就给自己一个新年计划吧</p><ul><li>全站SSL</li><li>Arch Linux 安装日记 （现在在用 Manjaro Linux 其实蛮舒服的 (2333</li><li>Python </li><li>学习 Golang</li><li>V2ray 教程</li></ul><p>那么总结就不做了，再一次，新年快乐～～</p><p><strong> 咚！咚！咚！ </strong></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt; 咚！咚！咚！ &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;新年的钟声敲响啦！&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>启用 Https</title>
